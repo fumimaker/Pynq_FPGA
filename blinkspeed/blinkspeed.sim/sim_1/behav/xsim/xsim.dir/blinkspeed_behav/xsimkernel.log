@@ -1,0 +1,7 @@
+Running: xsim.dir/blinkspeed_behav/xsimk.exe -simmode gui -wdb blinkspeed_behav.wdb -simrunnum 0 -socket 50173
+Design successfully loaded
+Design Loading Memory Usage: 5568 KB (Peak: 5568 KB)
+Design Loading CPU Usage: 406 ms
+Simulation completed
+Simulation Memory Usage: 6160 KB (Peak: 6160 KB)
+Simulation CPU Usage: 421 ms
